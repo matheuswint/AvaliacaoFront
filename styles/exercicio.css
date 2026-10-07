@@ -1,0 +1,33 @@
+body {
+    background-color: #3f3f3f;
+    font-family: Arial, sans-serif;
+}
+
+a {
+    color: white;
+}
+
+section {
+    margin: auto;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: rgb(39, 39, 39);
+    width: auto;
+    max-width: 80%;
+    color: white;
+    border-radius: 15px;
+    padding: 5%;
+    margin-top: 10%;
+}
+
+header {
+    text-align: center;
+}
+
+.sobre {
+    padding: 20px;
+}
+
+.login {
+    padding: 20px;  
+}

@@ -1,0 +1,69 @@
+body {
+    background-color: #3f3f3f;
+    font-family: Arial, sans-serif;
+}
+
+a {
+    color: white;
+}
+
+.esqueci {
+    margin: 28%;
+    text-decoration: none;
+}
+
+.cadastro {
+    margin: 12%;
+    text-decoration: none;
+}
+
+section {
+    margin: auto;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: rgb(39, 39, 39);
+    width: auto;
+    max-width: 80%;
+    color: white;
+    border-radius: 15px;
+    padding: 5%;
+    margin-top: 10%;
+}
+
+button {
+    width: 40%;
+    border-radius: 10px;
+    border: none;
+    height: 30px;
+    color: white;
+    background-color: rgb(192, 6, 192);
+    cursor: pointer;
+}
+
+input {
+    width: 40%;
+    height: 30px;
+    border-radius: 10px;
+    border: 2px solid;
+    border-color: grey;
+    background-color: #3f3f3f;
+    margin: 10px auto;
+}
+
+img {
+    margin-left: 650px;
+    margin-top: -360px;
+    width: 50%;
+}
+
+header {
+    text-align: center;
+}
+
+.sobre {
+    padding: 20px;
+}
+
+.exer {
+    padding: 20px;  
+}
